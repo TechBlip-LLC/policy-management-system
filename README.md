@@ -35,6 +35,11 @@ npm run dev
 
 Ed Bates (TECHBLIP LLC)
 
+## AI Contributions
+
+Some sections of this code were generated with the assistance of AI tools. These contributions were reviewed and integrated by the project’s creator(s).
+
+
 ## License
 
 MIT License - see the [LICENSE](LICENSE) file for details
