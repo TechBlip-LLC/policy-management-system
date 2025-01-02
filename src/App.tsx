@@ -12,7 +12,7 @@ function App() {
         </div>
         <PolicyForm />
         <footer className="text-center text-gray-600 text-sm mt-8 pb-4 space-y-1">
-          <p>Copyright © 2024 Ed Bates (TECHBLIP LLC)</p>
+          <p>Copyright © 2024 - 2025 Ed Bates (TECHBLIP LLC)</p>
           <p>This software is released under the MIT License. See the LICENSE file for details.</p>
         </footer>
       </div>
