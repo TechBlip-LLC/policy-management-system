@@ -39,7 +39,7 @@ Ed Bates (TECHBLIP LLC)
 
 ## Acknowledgments
 
-Some sections of this code were generated with the assistance of AI tools.  These contributions were reviewed and integrated by the creator’s.
+Some sections of this code were generated with the assistance of AI tools.  These contributions were reviewed and integrated by the project creator(s).
 
 ## License
 
