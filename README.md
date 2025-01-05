@@ -12,6 +12,8 @@ A modern insurance policy management system built with React, TypeScript, and Ta
 - Comprehensive policy data model
 - Mock data generation for testing
 
+![Policy](public/images/policy.png)
+
 ## Tech Stack
 
 - React 18
