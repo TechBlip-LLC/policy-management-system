@@ -1,6 +1,6 @@
 # Policy Management System
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![React Version](https://img.shields.io/badge/react-18.3.1-61DAFB.svg?logo=react)](https://reactjs.org)  [![TypeScript](https://img.shields.io/badge/typescript-5.5.3-3178C6.svg?logo=typescript)](https://www.typescriptlang.org)  [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.1-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com)  [![Vite](https://img.shields.io/badge/vite-5.4.2-646CFF.svg?logo=vite)](https://vitejs.dev)
+[![React Version](https://img.shields.io/badge/react-18.3.1-61DAFB.svg?logo=react)](https://reactjs.org)  [![TypeScript](https://img.shields.io/badge/typescript-5.5.3-3178C6.svg?logo=typescript)](https://www.typescriptlang.org)  [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.4.1-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com)  [![Vite](https://img.shields.io/badge/vite-5.4.2-646CFF.svg?logo=vite)](https://vitejs.dev)
 
 A modern insurance policy management system built with React, TypeScript, and Tailwind CSS. Features comprehensive policy handling, real-time validation, and enterprise-ready architecture.
 
